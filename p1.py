@@ -1,7 +1,7 @@
 #============python to json conversion=============using dumps================
 
 import json
-python_data={'Name':'jyoti',
+python_data={'Name':'viti',
              'quali':"b.tech",
              'city_bhopal':True,
              'belongs':False,
